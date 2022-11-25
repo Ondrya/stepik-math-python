@@ -4,4 +4,4 @@
 
 Ноутбуки
 
-[Постоянная Капрекара](https://github.com/Ondrya/stepik-math-python/blob/main/Kaprekar%20number.ipynb)
+ - [Постоянная Капрекара](https://github.com/Ondrya/stepik-math-python/blob/main/Kaprekar%20number.ipynb)
