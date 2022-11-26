@@ -5,4 +5,5 @@
 Ноутбуки
 
  - [Постоянная Капрекара](https://github.com/Ondrya/stepik-math-python/blob/main/Kaprekar%20number.ipynb)
- - Последовательность Люка
+ - [Последовательность Люка](https://github.com/Ondrya/stepik-math-python/blob/main/Lucas%20sequence.ipynb)
+ - Число Капрекара
